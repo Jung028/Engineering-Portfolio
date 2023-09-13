@@ -12,9 +12,9 @@ Here's a sneak peek of what awaits you:
 
 ### 🤖 Robotics Creations
 
-1. **[Project Name 1](link)**: *Brief and captivating project description here.* 🚀
+1. **[Project Name 1](https://github.com/Jung028/Engineering-Portfolio/tree/main/Exercise%2001)**: *Brief and captivating project description here.* 🚀
    
-   ![Project 1 Thumbnail](link-to-image)
+   ![Project 1 Thumbnail](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2001/3D%20View%2001.png?raw=true)
 
 2. **[Project Name 2](link)**: *Short and intriguing project description here.* 🌟
 
