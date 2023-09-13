@@ -12,31 +12,24 @@ Here's a sneak peek of what awaits you:
 
 ### 🤖 Robotics Creations
 
-1. **[Project Name 1](https://github.com/Jung028/Engineering-Portfolio/tree/main/Exercise%2001)**: *Brief and captivating project description here.* 🚀
+1. **[Project 1](https://github.com/Jung028/Engineering-Portfolio/tree/main/Exercise%2001)**: *1 piece* 🚀
    
    ![Project 1 Thumbnail](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2001/3D%20View%2001.png?raw=true)
 
-2. **[Project Name 2](link)**: *Short and intriguing project description here.* 🌟
+2. **[Project 2](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2002/3D%20Image%2002.png)**: *1 piece* 🌟
 
-   ![Project 2 Thumbnail](link-to-image)
+   ![Project 2 Thumbnail](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2002/3D%20Image%2002.png?raw=true)
 
-3. **[Project Name 3](link)**: *Engaging description to pique your interest.* 💡
+3. **[Project 3](link)**: *in progress* 💡
 
    ![Project 3 Thumbnail](link-to-image)
 
-### 🛠️ Engineering Projects
+### 🛠️ Engineering Projects (coming soon!)
 
 1. **[Project Name 1](link)**: *Describe the awesomeness of this engineering project.* ⚙️
 
    ![Project 1 Image](link-to-image)
 
-2. **[Project Name 2](link)**: *Share a captivating story about this engineering gem.* 🔩
-
-   ![Project 2 Image](link-to-image)
-
-3. **[Project Name 3](link)**: *Convey the magic of this engineering masterpiece.* 🧰
-
-   ![Project 3 Image](link-to-image)
 
 ## 🌟 Why Explore?
 
@@ -48,10 +41,6 @@ Here's a sneak peek of what awaits you:
 
 I'd love to connect with fellow engineers, tech enthusiasts, and curious minds like you. Whether it's discussing projects, sharing ideas, or just a friendly chat, don't hesitate to reach out:
 
-- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
-Feel free to [star ⭐](https://github.com/YourUsername/YourRepo) this repository if you find something that sparks your interest!
+- 📧 Email: [aedamjung@gmail.com](mailto:aedamjung@gmail.com)
 
 Thanks for stopping by, and I hope you enjoy exploring my engineering journey. Let's build the future together, one project at a time. 🌆🌟
