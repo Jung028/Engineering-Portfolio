@@ -22,7 +22,7 @@ Here's a sneak peek of what awaits you:
 
 3. **[Project 3]([link](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2003/bolt%20engineering%20drawing.png))**: *Bolt* 💡
 
-   ![Project 3 Thumbnail](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2003/bolt%20engineering%20drawing.png?raw=true)
+   ![Project 3 Thumbnail](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2003/bolt.png?raw=true)
 
 ### 🛠️ Engineering Projects (coming soon!)
 
