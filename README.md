@@ -24,6 +24,13 @@ Here's a sneak peek of what awaits you:
 
    ![Project 3 Thumbnail](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2003/bolt.png?raw=true)
 
+
+4. **[Project 4]([link](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2004/Drawing%201%20(1).png))**: *Part 101* 💡
+
+   ![Project 3 Thumbnail](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2004/Part%20101.png)
+
+   
+
 ### 🛠️ Engineering Projects (coming soon!)
 
 1. **[Project Name 1](link)**: *Describe the awesomeness of this engineering project.* ⚙️
