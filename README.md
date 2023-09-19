@@ -27,7 +27,11 @@ Here's a sneak peek of what awaits you:
 
 4. **[Project 4]([link](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2004/Drawing%201%20(1).png))**: *Part 101* 💡
 
-   ![Project 3 Thumbnail](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2004/part101.png)
+   ![Project 4 Thumbnail](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2004/part101.png)
+
+5. **[Project 5]([link](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2005/Part%20102.png)**: *Part 102* 💡
+
+   ![Project 5 Thumbnail](https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2005/Image%20Part%20102.png?raw=true)
 
    
 
