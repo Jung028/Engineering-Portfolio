@@ -1,0 +1,32 @@
+# Enhancing Tyre Robot for Better Performance
+
+## Introduction
+
+The Tyre Robot currently exhibits weaknesses in its light weight and low attack capabilities, but it possesses a notable advantage in high defense. To improve its overall performance, it's crucial to address these issues. This README outlines key enhancements to make the Tyre Robot more competitive in 2V2 battles.
+
+## Enhancements
+
+1. **Increase Weight and Attack:**
+   - The Tyre Robot's light weight, approximately 30+ kg, makes it vulnerable to drum spinners that can toss it around easily.
+   - To address this, we recommend increasing the robot's weight to enhance its stability.
+   - Additionally, boosting the robot's attack power is essential for a more balanced performance.
+
+2. **Add Front and Back Weapons:**
+   - In a 2V2 setting, adaptability is crucial.
+   - We propose adding both front and back weapons to the Tyre Robot.
+   - This configuration allows the robot to protect itself from behind while attacking opponents from the front.
+
+3. **Cost-Effective Solution:**
+   - To keep costs manageable, consider cutting the tires ourselves rather than purchasing specialized tires.
+
+4. **Upgraded DC Motor:**
+   - To compete effectively with drum spinner robots, we recommend using a more powerful DC motor.
+   - This upgrade will enhance the robot's overall performance and attack capabilities.
+
+5. **Varied Weapon Types:**
+   - To maximize versatility, equip the Tyre Robot with different types of weapons.
+   - Having multiple weapon options allows for strategic choices depending on the type of opponent faced.
+
+## Conclusion
+
+By implementing these enhancements, the Tyre Robot can transform from a primarily defensive robot into a more balanced and competitive contender in 2V2 battles. Increasing weight, attack power, and versatility will be key to achieving success in a variety of robot combat scenarios.
