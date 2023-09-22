@@ -38,7 +38,7 @@ Here's a sneak peek of what awaits you:
 ### 🛠️ Engineering Projects (coming soon!)
 
 1. **[Combat Robot Proposal Design]([link](https://github.com/Jung028/Engineering-Portfolio/blob/main/Combat-Robot/images/Robot.png))**: *Combat Robot Type: Drummer Front and Back* 💡
-   ![Project 5 Thumbnail]([https://github.com/Jung028/Engineering-Portfolio/blob/main/Exercise%2005/Image%20Part%20102.png?raw=true](https://github.com/Jung028/Engineering-Portfolio/blob/main/Combat-Robot/images/Robot.png))
+   ![Project Combat Robot](https://github.com/Jung028/Engineering-Portfolio/blob/main/Combat-Robot/images/Robot.png)
 
 ## 🌟 Why Explore?
 
